@@ -1,0 +1,6 @@
+-Oyun kazanma bitiş ekranında oyunun sonunu görmek için oyunu oynamadan her yer bayraklanmıştır. Bu nedenle her yer
+bayraktır. Normalde tüm mayınlar bayraklandığı zaman oyun bitmektedir.
+-Sıfır olan bir hücreye bastığınızda komşularıyla birlikte açılması çalışmaktadır. Floodfill algoritması kullanılmıştır.
+Recursive method çalışmaktadır.
+-Game over olduğu zaman butonların arkasında yazan tüm sayılar ve mayınlar gözükmektedir.
+-Timer oyunla birlikte başlar oyun sonu biter.
